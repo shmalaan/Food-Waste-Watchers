@@ -1,4 +1,6 @@
-# Food-Waste-Watchers
+# Food-Waste-Watchers 🍊🫙📑
+
+![WorldFoodDayParticipatedInWorldFoodDayGIF](https://github.com/shmalaan/Food-Waste-Watchers/assets/165241724/a5ad18dd-4061-4755-b7a6-b82fd1cb255e)
 
 
 ## Overview
@@ -8,7 +10,8 @@ AI-powered application that aligns with the UN Social Development Goal of reduci
 
 As a developer on this project, I implemented the Smart Storage feature which integrated AI to generate accurate storage infomration for various food items and provide detailed food storage information, the average storage life of the food item, and helpful tips to maximize freshness. 
 
-## Food Waste Watchers: What is it?
+## Food Waste Watchers: What is it? 
+
 
 Food Waste Watchers encapsulates the core function of what the application is about, focusing on helping users manage and reduce food waste effectively. "Food Waste" highlights our primary goal of addressing the global issue of food wastage, while "Watchers" signifies our approach in guiding users on ways to maximize the food they already have, and ensure food is no longer being wasted.
 The application allows users to explore different methods to maximize food freshness and minimize waste,making it a comprehensive tool for sustainable living.
