@@ -17,7 +17,7 @@ Food Waste Watchers encapsulates the core function of what the application is ab
 The application allows users to explore different methods to maximize food freshness and minimize waste,making it a comprehensive tool for sustainable living.
 
 
-## Why CASExplorer? 
+## Why use Food Waste Watchers? 
 
 In today's world, food waste continues to be a significant issue , contributing to enviornmental degradation and economic loss. Individuals and households often struggle with managing food effectively, leading to unncessary waste. Food Waste Watchers aims to address this challenege by offering a comprehensive solution to help users reduce food waste to promote sustainability and economic. While traditional methods and advice can often be overly-simplified and ineffective, Food Waste Watchers provides personalized guidance through AI technology. Our application delivers detailed and effective storage tips to maximize freshness, accurate portion-control information to avoid over-preparing, and creative recipe suggestions based on food items uses already have to reduce over-spending. 
 
