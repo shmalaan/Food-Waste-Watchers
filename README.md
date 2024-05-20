@@ -3,21 +3,21 @@
 ![WorldFoodDayParticipatedInWorldFoodDayGIF](https://github.com/shmalaan/Food-Waste-Watchers/assets/165241724/a5ad18dd-4061-4755-b7a6-b82fd1cb255e)
 
 
-## Project Overview
+## Project Overview 🪟
 
 AI-powered application that aligns with the UN Social Development Goal of reducing food waste and hunger through the use of three key features; A Image-to-Recipe Creation feature, a Portion-Control assistant feature, and a Smart Storage feature.
 
 
 As a developer on this project, I implemented the Smart Storage feature which integrated AI to generate accurate storage infomration for various food items and provide detailed food storage information, the average storage life of the food item, and helpful tips to maximize freshness. As this was my first experience utilizing VS Code and creating applications, many challenges were discovered and overcame throughout this projects lifecyle. A significant challenege was integrating Streamlit capabilities into our code which caused several setbacks, as well as learning HTML to effectively enhance the UI to ensure a user-friendly experience. Training the AI model to recognize certain things, in my case getting it to identify and markdown foods considered 'high-risk' by the FDA proved to be challeneging. However, through persistance and utilizing generative AI tools like CoPilot, we were able to overcome many of the challenegs we faced. This project not only showcases my skills in Python, Streamlit, and machine learning but also addressed the social issue of food waste by educating users on proper food management, directly promoting sustainability and reducing waste. 
 
-## Food Waste Watchers: What is it? 
+## Food Waste Watchers: What is it? 🤔💭
 
 
 Food Waste Watchers encapsulates the core function of what the application is about, focusing on helping users manage and reduce food waste effectively. "**Food Waste**" highlights our primary goal of addressing the global issue of food wastage, while "**Watchers**" signifies our approach in guiding users on ways to maximize the food they already have, and reduce the amount of food being wasted.
 The application allows users to explore different methods to maximize food freshness and minimize waste,making it a comprehensive tool for sustainable living.
 
 
-## Why use Food Waste Watchers? 
+## Why use Food Waste Watchers? ❓
 
 In today's world, food waste continues to be a significant issue , contributing to enviornmental degradation and economic loss. Individuals and households often struggle with managing food effectively, leading to unncessary waste. Food Waste Watchers aims to address this challenege by offering a comprehensive solution to help users reduce food waste to promote sustainability and economic. While traditional methods and advice can often be overly-simplified and ineffective, Food Waste Watchers provides personalized guidance through AI technology. Our application delivers detailed and effective storage tips to maximize freshness, accurate portion-control information to avoid over-preparing, and creative recipe suggestions based on food items uses already have to reduce over-spending. 
 
@@ -31,7 +31,7 @@ By choosing Food Waste Watchers, users gain a practical tool that not only educa
 
 Most importantly, our prototype aims to provide personalized, easy, and effective solutions for many people who want to decrease their spending on groceries, and promote a sustainable lifestyle. Help the world become more sustainable, one meal at a time.
 
-## Our Solution
+## Our Solution 🧠
 
 The creation of Food Waste Watchers started from the desire to promote sustainability through an innovative AI-driven solution. Leveraging generate AI, our application provides users with solutions that aim to use the food you already have, negating the need to overspend on groceries by getting the full value of the foods already in your home. The application has three main components: Image to recipe creation, Portion-Size calculator, and Smart Storage feature. 
 
@@ -43,7 +43,7 @@ Overall, these features combined are powerful tools to be used by an individual 
 
 ## See Our Demo Video
 
-Click on the link below to see a demo of our application.
+Click on the link below to see a demo of our application!
 
 [![Watch the video](https://drive.google.com/file/d/1doLVT1xoFWkRl4H8P4Q_mF-IVF0xodVl/view?usp=drive_link](https://drive.google.com/file/d/1doLVT1xoFWkRl4H8P4Q_mF-IVF0xodVl/view?usp=drive_link) 
 
